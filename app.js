@@ -9,7 +9,7 @@ var config = {
   app_name: 'Faucet Dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LdmBh4TAAAAABESWEAO1DeC64JIWOA8VASJtSZH',  // <----- EDIT ME!
+  recaptcha_sitekey: '6LdmBh4TAAAAAA-7vFKE_Uu7kNwT_sKy-eBDRuM-',  // <----- EDIT ME!
   redirect_uri: 'https://faucetdice.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
